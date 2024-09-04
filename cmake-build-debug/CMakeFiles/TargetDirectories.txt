@@ -1,0 +1,3 @@
+/cygdrive/c/Users/azhar/Desktop/Auto-ticket-generation-system/cmake-build-debug/CMakeFiles/Auto_ticket_generation_system.dir
+/cygdrive/c/Users/azhar/Desktop/Auto-ticket-generation-system/cmake-build-debug/CMakeFiles/edit_cache.dir
+/cygdrive/c/Users/azhar/Desktop/Auto-ticket-generation-system/cmake-build-debug/CMakeFiles/rebuild_cache.dir
